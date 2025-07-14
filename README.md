@@ -1,16 +1,3 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-
 
 
 # Gemini Clone – AI Chatbot using Google Generative AI
@@ -37,6 +24,11 @@ A sleek AI-powered chatbot built with **React + Vite**, using **Google's Gemini 
 - **State Management**: React Context API
 
 ---
+AI Model Used
+gemini-1.5-flash 
+
+Provided by Google Generative AI
+---
 
 ## 📦 Installation
 
@@ -44,5 +36,20 @@ A sleek AI-powered chatbot built with **React + Vite**, using **Google's Gemini 
 git clone https://github.com/YOUR_USERNAME/gemini-clone.git
 cd gemini-clone
 npm install
+
+
+```
+
+## Run the App Locally
+```bash
+npm run dev
+```
+---
+Then open http://localhost:5173 in your browser.
+
+---
+
+Anisha Kumari
+Developer | AI Enthusiast | CSIT @ CV Raman Global University
 
 
